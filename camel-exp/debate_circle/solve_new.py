@@ -16,7 +16,7 @@ parser = argparse.ArgumentParser(description="autogen debate test")
 parser.add_argument('-save_dir', type=str, default="solve_logs")
 parser.add_argument('-dataset',required=False, type=str, help="dataset name")
 parser.add_argument('-prompt', type=str, default = 'persuasive-3', help='prompt for malicious agent')
-parser.add_argument('-model', type=str, default='gpt4o', help='LLM')
+parser.add_argument('-model', type=str, default='gpt4o-mini', help='LLM')
 args = parser.parse_args()
 
 #support functions
@@ -92,6 +92,16 @@ elif args.dataset=='mmlubio_incorrect':
         data = json.load(f)
     question_name = 'question'
     answer_name = 'gt'
+elif args.dataset=='mmluphy_correct':
+    with open("../../acc_eva/processed_data/mmluphy_correct.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    question_name = 'question'
+    answer_name = 'gt'
+elif args.dataset=='mmluphy_incorrect':
+    with open("../../acc_eva/processed_data/mmluphy_incorrect.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
+    question_name = 'question'
+    answer_name = 'gt'
 elif args.dataset == 'gsm8k_correct':
     with open("../../acc_eva/processed_data/gsm8k_correct.json", "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -135,10 +145,6 @@ solver2 = ChatAgent(
     system_message=prompts['original-trust'],
     model=model,
     )
-# solver3 = ChatAgent(
-#     system_message=prompts['original-trust'],
-#     model=model,
-#     )
 
 # Create judge agent
 judge = ChatAgent(
@@ -147,8 +153,7 @@ judge = ChatAgent(
     )
 
 def solve_problem(problem_description, iter_limits=5):
-    
-    delimiter = "\n\nTrust rate"
+
 
     # Start discussion between solvers
     discussion = []
@@ -174,21 +179,7 @@ def solve_problem(problem_description, iter_limits=5):
         content=transform_list_to_string(message_pool)
     ))
     discussion.append({"Solver_2": message_from_solver2.msgs[0].content})
-    part1, _ = split_text(message_from_solver2.msgs[0].content, delimiter)
-    message_pool.append({"Solver_2": part1})
-    
-    
-    # Solver 3 responds
-    # message_from_solver3 = solver3.step(BaseMessage(
-    #     role_name="Solver_3",
-    #     role_type=RoleType.ASSISTANT,
-    #     meta_dict={},
-    #     content=transform_list_to_string(message_pool)
-    # ))
-    # discussion.append({"Solver_3": message_from_solver3.msgs[0].content})
-    # part1, _ = split_text(message_from_solver3.msgs[0].content, delimiter)
-    # message_pool.append({"Solver_3": part1})
-
+    message_pool.append({"Solver_2": message_from_solver2.msgs[0].content})
     
     
     for _ in range(iter_limits):
@@ -209,19 +200,7 @@ def solve_problem(problem_description, iter_limits=5):
             content=transform_list_to_string(message_pool)
         ))
         discussion.append({"Solver_2": message_from_solver2.msgs[0].content})
-        part1, _ = split_text(message_from_solver2.msgs[0].content, delimiter)
-        message_pool.append({"Solver_2": part1})
-        
-        # Solver 3 responds
-        # message_from_solver3 = solver3.step(BaseMessage(
-        #     role_name="Solver_3",
-        #     role_type=RoleType.ASSISTANT,
-        #     meta_dict={},
-        #     content=transform_list_to_string(message_pool)
-        # ))
-        # discussion.append({"Solver_3": message_from_solver3.msgs[0].content})
-        # part1, _ = split_text(message_from_solver3.msgs[0].content, delimiter)
-        # message_pool.append({"Solver_3": part1})
+        message_pool.append({"Solver_2": message_from_solver2.msgs[0].content})
         
 
     # Pass discussion to judge
@@ -289,18 +268,12 @@ if start_index!=0 and os.path.exists(save_file):
 else:
     discussions = []
     
-# if 'human' in args.dataset:
-#     end_idx=len(data)
-# else:
-#     end_idx=103
+
 for i in range(start_index,min(len(data),20)):
     try:
         idea = data[i][question_name]
         print(f"Problem:{idea}")
         discussion,_ = solve_problem(idea, iter_limits=2)
-        # print(f"discussion:{discussion}")
-        # print(f"judge_conclusion:{judge_conclusion}")
-        # exit(0)
         discussion.append(data[i])
         discussions.append(discussion)
         with open(save_file, 'w') as file:

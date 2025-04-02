@@ -123,4 +123,10 @@ MODEL_PATHS = {
     "llama3": {
         "8B": "/egr/research-dselab/hepengf1/model/Llama-3.1-8B-Instruct",
     },
+    "qwen2.5":{
+        "7B": "/egr/research-dselab/hepengf1/model/Qwen2.5-7B-Instruct",
+    },
+    "gemma3":{
+        "4B": "/egr/research-dselab/hepengf1/model/gemma-3-4b-it",
+    }
 }

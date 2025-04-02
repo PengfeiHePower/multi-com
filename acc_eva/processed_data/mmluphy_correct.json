@@ -1,0 +1,538 @@
+[
+    {
+        "question": "The quantum efficiency of a photon detector is 0.1. If 100 photons are sent into the detector, one after the other, the detector will detect photons\nOptions:\nA) an average of 10 times, with an rms deviation of about 4\nB) an average of 10 times, with an rms deviation of about 3\nC) an average of 10 times, with an rms deviation of about 1\nD) an average of 10 times, with an rms deviation of about 0.1",
+        "gt": "b"
+    },
+    {
+        "question": "Which of the following is true about any system that undergoes a reversible thermodynamic process?\nOptions:\nA) There are no changes in the internal energy of the system.\nB) The temperature of the system remains constant during the process.\nC) The entropy of the system and its environment remains unchanged.\nD) The entropy of the system and its environment must increase.",
+        "gt": "c"
+    },
+    {
+        "question": "The best type of laser with which to do spectroscopy over a range of visible wavelengths is\nOptions:\nA) a dye laser\nB) a helium-neon laser\nC) an excimer laser\nD) a ruby laser",
+        "gt": "a"
+    },
+    {
+        "question": "Which of the following gives the total spin quantum number of the electrons in the ground state of neutral nitrogen (Z = 7)?\nOptions:\nA) 1/2\nB) 1\nC) 3/2\nD) 5/2",
+        "gt": "c"
+    },
+    {
+        "question": "Consider three identical, ideal capacitors. The first capacitor is charged to a voltage and then disconnected from the battery. The other two capacitors, initially uncharged and connected in series, are then connected across the first capacitor. What is the final voltage on the first capacitor?\nOptions:\nA) V_0/5\nB) V_0/3\nC) V_0/2\nD) 2V_0/3",
+        "gt": "d"
+    },
+    {
+        "question": "De Broglie hypothesized that the linear momentum and wavelength of a free massive particle are related by which of the following constants?\nOptions:\nA) Planck\u2019s constant\nB) Boltzmann\u2019s constant\nC) The Rydberg constant\nD) The speed of light",
+        "gt": "a"
+    },
+    {
+        "question": "If the total energy of a particle of mass m is equal to twice its rest energy, then the magnitude of the particle\u2019s relativistic momentum is\nOptions:\nA) mc/2\nB) mc/(2^(1/2))\nC) mc\nD) (3^(1/2))mc",
+        "gt": "d"
+    },
+    {
+        "question": "In the diamond structure of elemental carbon, the nearest neighbors of each C atom lie at the corners of a\nOptions:\nA) square\nB) hexagon\nC) cube\nD) tetrahedron",
+        "gt": "d"
+    },
+    {
+        "question": "The coefficient of static friction between a small coin and the surface of a turntable is 0.30. The turntable rotates at 33.3 revolutions per minute. What is the maximum distance from the center of the turntable at which the coin will not slide?\nOptions:\nA) 0.024 m\nB) 0.048 m\nC) 0.121 m\nD) 0.242 m",
+        "gt": "d"
+    },
+    {
+        "question": "The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties?\nOptions:\nA) Specific heat\nB) Thermal conductivity\nC) Electrical resistivity\nD) Hall coefficient",
+        "gt": "d"
+    },
+    {
+        "question": "The primary source of the Sun\u2019s energy is a series of thermonuclear reactions in which the energy produced is c^2 times the mass difference between\nOptions:\nA) two hydrogen atoms and one helium atom\nB) four hydrogen atoms and one helium atom\nC) six hydrogen atoms and two helium atoms\nD) three helium atoms and one carbon atom",
+        "gt": "b"
+    },
+    {
+        "question": "Electromagnetic radiation provides a means to probe aspects of the physical universe. Which of the following statements regarding radiation spectra is NOT correct?\nOptions:\nA) Lines in the infrared, visible, and ultraviolet regions of the spectrum reveal primarily the nuclear structure of the sample.\nB) The wavelengths identified in an absorption spectrum of an element are among those in its emission spectrum.\nC) Absorption spectra can be used to determine which elements are present in distant stars.\nD) Spectral analysis can be used to identify the composition of galactic dust.",
+        "gt": "a"
+    },
+    {
+        "question": "Protons used in cancer therapy are typically accelerated to about 0.6c . How much work must be done on a particle of mass m in order for it to reach this speed, assuming it starts at rest?\nOptions:\nA) 0.25mc^2\nB) 0.60mc^2\nC) 0.67mc^2\nD) 1.25mc^2",
+        "gt": "a"
+    },
+    {
+        "question": "The sign of the charge carriers in a doped semiconductor can be deduced by measuring which of the following properties?\nOptions:\nA) Magnetic susceptibility\nB) Hall coefficient\nC) Electrical resistivity\nD) Thermal conductivity",
+        "gt": "b"
+    },
+    {
+        "question": "A rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be 0.80 m?\nOptions:\nA) 0.50c\nB) 0.60c\nC) 0.70c\nD) 0.80c",
+        "gt": "b"
+    },
+    {
+        "question": "A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magnetic field is increased from 0.01 T to 0.06 T during a time interval of 0.25 s, the average induced EMF in the coil is\nOptions:\nA) 0.04 V\nB) 0.1 V\nC) 2.5 V\nD) 10 V",
+        "gt": "d"
+    },
+    {
+        "question": "Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein\u2019s theory of the photoelectric effect predicts that the\nOptions:\nA) work function of the metal is proportional to the frequency\nB) work function of the metal is proportional to the wavelength\nC) current in the tube is a linear function of the wavelength\nD) potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency",
+        "gt": "d"
+    },
+    {
+        "question": "By definition, the electric displacement current through a surface S is proportional to the\nOptions:\nA) magnetic flux through S\nB) rate of change of the magnetic flux through S\nC) time integral of the magnetic flux through S\nD) rate of change of the electric flux through S",
+        "gt": "d"
+    },
+    {
+        "question": "The negative muon, mu^-, has properties most similar to which of the following?\nOptions:\nA) Electron\nB) Meson\nC) Photon\nD) Boson",
+        "gt": "a"
+    },
+    {
+        "question": "The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is\nOptions:\nA) 1.2 x 10^9 m/s\nB) 3.0 x 10^8 m/s\nC) 1.5 x 10^8 m/s\nD) 1.0 x 10^8 m/s",
+        "gt": "c"
+    },
+    {
+        "question": "The energy from electromagnetic waves in equilibrium in a cavity is used to melt ice. If the Kelvin temperature of the cavity is increased by a factor of two, the mass of ice that can be melted in a fixed amount of time is increased by a factor of\nOptions:\nA) 2\nB) 4\nC) 8\nD) 16",
+        "gt": "d"
+    },
+    {
+        "question": "A resistor in a circuit dissipates energy at a rate of 1 W. If the voltage across the resistor is doubled, what will be the new rate of energy dissipation?\nOptions:\nA) 0.25 W\nB) 0.5 W\nC) 1 W\nD) 4 W",
+        "gt": "d"
+    },
+    {
+        "question": "A grating spectrometer can just barely resolve two wavelengths of 500 nm and 502 nm, respectively. Which of the following gives the resolving power of the spectrometer?\nOptions:\nA) 2\nB) 250\nC) 5,000\nD) 10,000",
+        "gt": "b"
+    },
+    {
+        "question": "The best type of laser with which to do spectroscopy over a range of visible wavelengths is\nOptions:\nA) a dye laser\nB) a helium-neon laser\nC) an excimer laser\nD) a ruby laser",
+        "gt": "a"
+    },
+    {
+        "question": "The eigenvalues of a Hermitian operator are always\nOptions:\nA) real\nB) imaginary\nC) degenerate\nD) linear",
+        "gt": "a"
+    },
+    {
+        "question": "Under ideal conditions, the electric and magnetic fields inside a superconductor are zero. Maxwell\u2019s equations imply that which of the following must be true just outside the surface of the superconductor?\nOptions:\nA) B = 0\nB) B is perpendicular to the surface.\nC) B is tangential to the surface.\nD) B is time independent.",
+        "gt": "c"
+    },
+    {
+        "question": "Two students perform an experiment in which they drop a ball from rest from a known height above the ground and measure the speed of the ball just before it strikes the ground. From repeated measurement, the students estimate the uncertainty in the measured speed of the ball to be 10 percent. Which of the following gives the uncertainty in the kinetic energy of the ball? (Assume the uncertainty in the ball\u2019s mass is negligibly small.)\nOptions:\nA) 5%\nB) 10%\nC) 15%\nD) 20%",
+        "gt": "d"
+    },
+    {
+        "question": "A particle is constrained to move in a circle with a 10-meter radius. At one instant, the particle\u2019s speed is 10 meters per second and is increasing at a rate of 10 meters per second squared. The angle between the particle\u2019s velocity and acceleration vectors is\nOptions:\nA) 0\u00b0\nB) 30\u00b0\nC) 45\u00b0\nD) 60\u00b0",
+        "gt": "c"
+    },
+    {
+        "question": "If the absolute temperature of a blackbody is increased by a factor of 3, the energy radiated per second per unit area does which of the following?\nOptions:\nA) Decreases by a factor of 81.\nB) Decreases by a factor of 9.\nC) Increases by a factor of 9.\nD) Increases by a factor of 81.",
+        "gt": "d"
+    },
+    {
+        "question": "A magnetic field is directed perpendicular to the plane of a circular coil of area 0.2 m^2 and 250 turns. If the magnetic field is increased from 0.01 T to 0.06 T during a time interval of 0.25 s, the average induced EMF in the coil is\nOptions:\nA) 0.04 V\nB) 0.1 V\nC) 2.5 V\nD) 10 V",
+        "gt": "d"
+    },
+    {
+        "question": "Which of the following is true about any system that undergoes a reversible thermodynamic process?\nOptions:\nA) There are no changes in the internal energy of the system.\nB) The temperature of the system remains constant during the process.\nC) The entropy of the system and its environment remains unchanged.\nD) The entropy of the system and its environment must increase.",
+        "gt": "c"
+    },
+    {
+        "question": "Electromagnetic radiation emitted from a nucleus is most likely to be in the form of\nOptions:\nA) gamma rays\nB) microwaves\nC) ultraviolet radiation\nD) visible light",
+        "gt": "a"
+    },
+    {
+        "question": "A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is\nOptions:\nA) 1\nB) 2\nC) 3\nD) 5",
+        "gt": "d"
+    },
+    {
+        "question": "Two simple pendulums A and B consist of identical masses suspended from strings of length L_A and L_B, respectively. The two pendulums oscillate in equal gravitational fields. If the period of pendulum B is twice the period of pendulum A, which of the following is true of the lengths of the two pendulums?\nOptions:\nA) L_B = 4L_A\nB) L_B = 2L_A\nC) L_B = L_A\nD) L_B = 1/2 L_A",
+        "gt": "a"
+    },
+    {
+        "question": "According to the BCS theory, the attraction between Cooper pairs in a superconductor is due to\nOptions:\nA) the weak nuclear force\nB) the strong nuclear force\nC) vacuum polarization\nD) interactions with the ionic lattice",
+        "gt": "d"
+    },
+    {
+        "question": "A rod measures 1.00 m in its rest system. How fast must an observer move parallel to the rod to measure its length to be 0.80 m?\nOptions:\nA) 0.50c\nB) 0.60c\nC) 0.70c\nD) 0.80c",
+        "gt": "b"
+    },
+    {
+        "question": "By definition, the electric displacement current through a surface S is proportional to the\nOptions:\nA) rate of change of the electric flux through S\nB) electric flux through S\nC) time integral of the magnetic flux through S\nD) rate of change of the magnetic flux through S",
+        "gt": "a"
+    },
+    {
+        "question": "The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency brakes of the elevator stop the elevator shortly before it reaches the bottom of the shaft. If the elevator fell a distance of 100 m starting from rest, the heat that the brakes must dissipate to bring the elevator safely to rest is\nOptions:\nA) 100 J\nB) 1,000 J\nC) 10,000 J\nD) 1,000,000 J",
+        "gt": "d"
+    },
+    {
+        "question": "The hydrogen lines observed in the spectrum of the quasar 3C9 are shifted so far into the red that their wavelengths are three times as long as those observed in the light from hydrogen atoms at rest in a laboratory on Earth. If it is assumed that the shift is entirely due to the relative motion of 3C9 and Earth, the relative speed of the quasar is\nOptions:\nA) 2c\nB) c\nC) 0.8c\nD) 0.5c",
+        "gt": "c"
+    },
+    {
+        "question": "A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the box in the direction of its motion. The box travels 5 m with the constant force applied. The force is then removed, leaving the box with a speed of 2 m/s. Which of the following gives the magnitude of the applied force?\nOptions:\nA) 1 N\nB) 2 N\nC) 3 N\nD) 4 N",
+        "gt": "c"
+    },
+    {
+        "question": "The suspension cable of a 1,000 kg elevator snaps, sending the elevator moving downward through its shaft. The emergency brakes of the elevator stop the elevator shortly before it reaches the bottom of the shaft. If the elevator fell a distance of 100 m starting from rest, the heat that the brakes must dissipate to bring the elevator safely to rest is\nOptions:\nA) 10,000 J\nB) 100,000 J\nC) 1,000,000 J\nD) 10,000,000 J",
+        "gt": "c"
+    },
+    {
+        "question": "The mean kinetic energy of the conduction electrons in metals is ordinarily much higher than kT because\nOptions:\nA) electrons have many more degrees of freedom than atoms do\nB) the electrons and the lattice are not in thermal equilibrium\nC) the electrons form a degenerate Fermi gas\nD) electrons in metals are highly relativistic",
+        "gt": "c"
+    },
+    {
+        "question": "A 10 kg box slides horizontally without friction at a speed of 1 m/s. At one point, a constant force is applied to the box in the direction of its motion. The box travels 5 m with the constant force applied. The force is then removed, leaving the box with a speed of 2 m/s. Which of the following gives the magnitude of the applied force?\nOptions:\nA) 1 N\nB) 2 N\nC) 3 N\nD) 4 N",
+        "gt": "c"
+    },
+    {
+        "question": "Light of variable frequency shines on the metal surface of a photoelectric tube. Einstein\u2019s theory of the photoelectric effect predicts that the\nOptions:\nA) work function of the metal is proportional to the frequency\nB) work function of the metal is proportional to the wavelength\nC) current in the tube is a linear function of the wavelength\nD) potential difference necessary to stop the emitted electrons is a linear function of the frequency above the threshold frequency",
+        "gt": "d"
+    },
+    {
+        "question": "An observer O at rest midway between two sources of light at x = 0 and x = 10 m observes the two sources to flash simultaneously. According to a second observer O', moving at a constant speed parallel to the x-axis, one source of light flashes 13 ns before the other. Which of the following gives the speed of O' relative to O?\nOptions:\nA) 0.13c\nB) 0.15c\nC) 0.36c\nD) 0.53c",
+        "gt": "c"
+    },
+    {
+        "question": "A single-electron atom has the electron in the l = 2 state. The number of allowed values of the quantum number m_l is\nOptions:\nA) 5\nB) 4\nC) 3\nD) 2",
+        "gt": "a"
+    },
+    {
+        "question": "The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in which all the wavelengths are\nOptions:\nA) decreased by a factor of 9\nB) decreased by a factor of 49\nC) decreased by a factor of 81\nD) increased by a factor of 9",
+        "gt": "a"
+    },
+    {
+        "question": "Which of the following lasers utilizes transitions that involve the energy levels of free atoms?\nOptions:\nA) Diode laser\nB) Dye laser\nC) Free-electron laser\nD) Gas laser",
+        "gt": "d"
+    },
+    {
+        "question": "The emission spectrum of the doubly ionized lithium atom Li++ (Z = 3, A = 7) is identical to that of a hydrogen atom in which all the wavelengths are\nOptions:\nA) decreased by a factor of 9\nB) decreased by a factor of 49\nC) decreased by a factor of 81\nD) increased by a factor of 9",
+        "gt": "a"
+    },
+    {
+        "question": "The speed of light inside of a nonmagnetic dielectric material with a dielectric constant of 4.0 is\nOptions:\nA) 1.2 * 10^9 m/s\nB) 3.0 * 10^8 m/s\nC) 1.5 * 10^8 m/s\nD) 1.0 * 10^8 m/s",
+        "gt": "c"
+    },
+    {
+        "question": "A 3-microfarad capacitor is connected in series with a 6-microfarad capacitor. When a 300-volt potential difference is applied across this combination, the total energy stored in the two capacitors is\nOptions:\nA) 0.09 J\nB) 0.18 J\nC) 0.27 J\nD) 0.41 J",
+        "gt": "a"
+    },
+    {
+        "question": "Two identical satellites, A and B, are in circular orbits around Earth. The orbital radius of A is twice that of B. Which of the following gives the ratio of the angular momentum of A to the angular momentum of B?\nOptions:\nA) 4\nB) 2\nC) sqrt(2)\nD) 1/sqrt(2)",
+        "gt": "c"
+    },
+    {
+        "question": "An object is thrown horizontally from the open window of a building. If the initial speed of the object is 20 m/s and it hits the ground 2.0 s later, from what height was it thrown? (Neglect air resistance and assume the ground is level.)\nOptions:\nA) 4.9 m\nB) 9.8 m\nC) 10.0 m\nD) 19.6 m",
+        "gt": "d"
+    },
+    {
+        "question": "A nonrelativistic particle with a charge twice that of an electron moves through a uniform magnetic field. The field has a strength of \u03c0/4 tesla and is perpendicular to the velocity of the particle. What is the particle\u2019s mass if it has a cyclotron frequency of 1,600 hertz?\nOptions:\nA) 2.5 * 10^-23 kg\nB) 1.2 * 10^-22 kg\nC) 3.3 * 10^-22 kg\nD) 5.0 * 10^-21 kg",
+        "gt": "a"
+    },
+    {
+        "question": "A satellite of mass m orbits a planet of mass M in a circular orbit of radius R. The time required for one revolution is\nOptions:\nA) independent of M\nB) proportional to m^(1/2)\nC) linear in R\nD) proportional to R^(3/2)",
+        "gt": "d"
+    },
+    {
+        "question": "The plates of a capacitor are charged to a potential difference of 5 V. If the capacitance is 2 mF, what is the charge on the positive plate?\nOptions:\nA) 0.005 C\nB) 0.01 C\nC) 0.02 C\nD) 0.5 C",
+        "gt": "b"
+    },
+    {
+        "question": "Two identical capacitors are hooked in parallel to an external circuit. Which of the following quantities must be the same for both capacitors? I. the charge stored on the capacitor II.  the voltage across the capacitor III. the capacitance of the capacitor\nOptions:\nA) I only\nB) II only\nC) II and III only\nD) (E) I, II, and III",
+        "gt": "d"
+    },
+    {
+        "question": "A 1-kg object is released from rest at the top of a rough-surfaced incline. The object slides without rotating to the bottom of the incline. The object\u2019s kinetic energy at the bottom must be\nOptions:\nA) Equal to the block\u2019s gravitational potential energy when it was released, because total mechanical energy must be conserved.\nB) Equal to the block\u2019s gravitational potential energy when it was released, because the gain in kinetic energy compensates for the mechanical energy lost to thermal energy on the rough incline.\nC) Less than the block\u2019s gravitational potential energy when it was released, because the gravitational potential energy was converted both to thermal energy and to kinetic energy.\nD) Less than the block\u2019s gravitational potential energy when it was released, because the work done by the friction force must be greater than the block\u2019s gain in kinetic energy.",
+        "gt": "c"
+    },
+    {
+        "question": "A student is experimenting with a simple spring-block oscillator of spring constant k and amplitude A. The block attached to the spring has a mass of m. If the student places a small block of mass m on top of the original block, which of the following is true?\nOptions:\nA) The small block is most likely to slide off when the original block is at maximum displacement from the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than kA/[(M+m)g].\nB) The small block is most likely to slide off when the original block is at the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than kA/[(M+m)g].\nC) The small block is most likely to slide off when the original block is at maximum displacement from the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than (M+m)g/(kA).\nD) The small block is most likely to slide off when the original block is at the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than (M+m)g/(kA).",
+        "gt": "a"
+    },
+    {
+        "question": "How much work is required to charge a 10 \u00b5F capacitor to a potential difference of 100 V ?\nOptions:\nA) 0.005 J\nB) 0.01 J\nC) 0.05 J\nD) 0.1 J",
+        "gt": "c"
+    },
+    {
+        "question": "A box of mass m slides on a horizontal surface with initial speed v0. It feels no forces other than gravity and the force from the surface. If the coefficient of kinetic friction between the box and the surface is \u03bc, how far does the box slide before coming to rest?\nOptions:\nA) v0^2/(2\u03bcg)\nB) v0^2/(\u03bcg)\nC) 2v0^2/(\u03bcg)\nD) mv0^2/(\u03bcg)",
+        "gt": "a"
+    },
+    {
+        "question": "When hot water is poured into a beaker containing cold alcohol, the temperature of the mixture will eventually reach the same temperature. Considering the scale of the size of the molecules of the fluids, which of the following is the primary reason for this phenomenon?\nOptions:\nA) The high temperature water will rise to the top of the container until it has cooled and then mixes with the alcohol.\nB) The molecules of the water continue to have a higher kinetic energy than the molecules of the alcohol, but the two liquids mix until the energy is spread evenly throughout the container.\nC) The hot water produces thermal radiation that is absorbed by the cold alcohol until the kinetic energy of all the molecules is the same.\nD) The water molecules collide with the alcohol molecules, transferring energy until the average kinetic energy of both the water and alcohol molecules are the same.",
+        "gt": "d"
+    },
+    {
+        "question": "Above an infinitely large plane carrying charge density \u03c3, the electric field points up and is equal to \u03c3/2\u03b5o. What is the magnitude and direction of the electric field below the plane?\nOptions:\nA) \u03c3/2\u03b5o, down\nB) \u03c3/2\u03b5o, up\nC) \u03c3/\u03b5o, down\nD) \u03c3/\u03b5o, up",
+        "gt": "a"
+    },
+    {
+        "question": "A beam of electrons has speed 10^7 m/s. It is desired to use the magnetic field of the Earth, 5 \u00d7 10\u22125 T, to bend the electron beam into a circle. What will be the radius of this circle?\nOptions:\nA) 1 nm\nB) 1 \u03bcm\nC) 1 mm\nD) 1 m",
+        "gt": "d"
+    },
+    {
+        "question": "An object is placed 100 cm from a plane mirror. How far is the image from the object?\nOptions:\nA) 50 cm\nB) 100 cm\nC) 200 cm\nD) 300 cm",
+        "gt": "c"
+    },
+    {
+        "question": "A gas undergoes an expansion-compression cycle. If, plotted on a P-V diagram, the cycle is counterclockwise and the work is 300 J in magnitude, what was the heat transfer during this cycle?\nOptions:\nA) 300 J into the system\nB) 300 J out of the system\nC) 600 J into the system\nD) 600 J out of the system",
+        "gt": "b"
+    },
+    {
+        "question": "An ideal battery of constant voltage V supplies current to a circuit that has total resistance R. If R is doubled, what will happen to the total power dissipated by the circuit?\nOptions:\nA) It will double.\nB) It will quadruple.\nC) It will be halved.\nD) It will remain the same.",
+        "gt": "c"
+    },
+    {
+        "question": "Ultraviolet light has a wavelength of about 6 \u00d7 10^-8 m. What is the frequency of this light?\nOptions:\nA) 5 \u00d7 10^15 Hz\nB) 0.5 Hz\nC) 2 Hz\nD) 20 Hz",
+        "gt": "a"
+    },
+    {
+        "question": "Each of the following ionized isotopes is projected with the same speed into a uniform magnetic field B such that the isotope's initial velocity is perpendicular to B. Which combination of mass and charge would result in a circular path with the largest radius?\nOptions:\nA) m = 16 u, q = \u20135 e\nB) m = 17 u, q = \u20134 e\nC) m = 18 u, q = \u20133 e\nD) m = 20 u, q = \u20131 e",
+        "gt": "d"
+    },
+    {
+        "question": "A very slow-moving positron interacts with a stationary electron. Which of the following statements correctly describes a possible outcome of this reaction and why it would occur?\nOptions:\nA) Conservation of mass indicates that if a single new particle were created in the reaction, it must have a total mass equal to the combined masses of the electron and positron.\nB) Conservation of charge indicates that all new particles created in the reaction would have no electric charge.\nC) Conservation of momentum indicates that two identical gamma rays moving off in opposite directions could be created.\nD) Conservation of energy indicates that the antimatter positron could annihilate into energy, leaving the stationary electron behind.",
+        "gt": "c"
+    },
+    {
+        "question": "A box sits on an inclined plane without sliding. As the angle of the plane (measured from the horizontal) increases, the normal force\nOptions:\nA) increases linearly\nB) decreases linearly\nC) does not change\nD) decreases nonlinearly",
+        "gt": "d"
+    },
+    {
+        "question": "A person stands on a scale in an elevator. He notices that the scale reading is less than his usual weight. Which of the following could possibly describe the motion of the elevator?\nOptions:\nA) It is moving downward and slowing down.\nB) It is moving upward and slowing down.\nC) It is moving upward at a constant speed.\nD) It is moving downward at a constant speed.",
+        "gt": "b"
+    },
+    {
+        "question": "If L, M, and T denote the dimensions of length, mass, and time, respectively, what are the dimensions of impulse?\nOptions:\nA) LM/T^3\nB) LM/T^2\nC) LM/T\nD) L^2M/T^2",
+        "gt": "c"
+    },
+    {
+        "question": "Traveling at an initial speed of 1.5 \u00d7 10^6 m/s, a proton enters a region of constant magnetic field of magnitude 1.5 T. If the proton's initial velocity vector makes an angle of 30\u00b0 with the magnetic field, compute the proton's speed 4 s after entering the magnetic field.\nOptions:\nA) 5.0 \u00d7 10^6 m/s\nB) 7.5 \u00d7 10^6 m/s\nC) 1.5 \u00d7 10^6 m/s\nD) 3.0 \u00d7 10^6 m/s",
+        "gt": "c"
+    },
+    {
+        "question": "A man stands on a platform scale in an elevator. The elevator moves upward, speeding up. What is the action-reaction force pair to the man\u2019s weight?\nOptions:\nA) The force of the elevator cable on the man\nB) The force of the man on the scale\nC) The force of the elevator cable on the elevator\nD) The force of the man on the Earth",
+        "gt": "d"
+    },
+    {
+        "question": "An object carries a charge of \u20131 C. How many excess electrons does it contain?\nOptions:\nA) 6.25 \u00d7 10^18\nB) 8.00 \u00d7 10^18\nC) 1.60 \u00d7 10^19\nD) 3.20 \u00d7 10^19",
+        "gt": "a"
+    },
+    {
+        "question": "A guitar string creates a sound wave of known frequency. Which of the following describes a correct and practical method of measuring the wavelength of the sound wave with a meterstick?\nOptions:\nA) Lightly touch the guitar string in the middle such that a single node is created. Measure the length of the string; this is the wavelength.\nB) Measure the length of the guitar string; this is half the wavelength.\nC) Adjust the length of a pipe placed near the string so that resonances are heard. Measure the difference between the pipe lengths for consecutive resonances; this is half the wavelength.\nD) Measure the peak-to-peak distance of the wave as it passes; this is the wavelength.",
+        "gt": "c"
+    },
+    {
+        "question": "Which of the following statements about images is true?\nOptions:\nA) Images produced by concave lenses are always real.\nB) Images produced by concave mirros are always real.\nC) Images produced by convex lenses can be both real and virtual.\nD) Images produced by convex mirrors can be both real and virtual.",
+        "gt": "c"
+    },
+    {
+        "question": "In which of the following situations involving a source of sound and a detector of the sound is it possible that there is NO perceived Doppler shift?\nOptions:\nA) The source travels toward the stationary detector.\nB) The detector travels toward the stationary source.\nC) Both the source and detector travel in the same direction.\nD) Both the source and detector travel in opposite directions, with the source and detector moving away from each other.",
+        "gt": "c"
+    },
+    {
+        "question": "In an experiment designed to study the photoelectric effect, it is observed that low-intensity visible light of wavelength 550 nm produced no photoelectrons. Which of the following best describes what would occur if the intensity of this light were increased dramatically?\nOptions:\nA) Almost immediately, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons.\nB) Almost immediately, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons minus the work function of the metal.\nC) After several seconds, necessary for the electrons to absorb sufficient energy from the incident light, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons minus the work function of the metal.\nD) Nothing would happen.",
+        "gt": "d"
+    },
+    {
+        "question": "Two traveling waves of equal frequency, one of amplitude 4 cm and the other of amplitude 6 cm, superimpose in a single medium. Which of the following best describes the displacement, D, of the resultant wave?\nOptions:\nA) 2 cm \u2264 D \u2264 10 cm\nB) D = 5 cm\nC) D = 10 cm\nD) 10 cm \u2264 D \u2264 12 cm",
+        "gt": "a"
+    },
+    {
+        "question": "In Collision A, two carts collide and bounce off each other. In Collision B, a ball sticks to a rigid rod, which begins to rotate about the combined center of mass. Which of the following statements about quantities in each collision is correct?\nOptions:\nA) Collision A: each cart experiences the same force, time of collision, and change in kinetic energy. Collision B: the ball and the rod each experience the same torque, time of collision, and change in rotational kinetic energy.\nB) Collision A: each cart experiences the same force, time of collision, and change in linear momentum. Collision B: the ball and the rod each experience the same torque, time of collision, and change in angular momentum.\nC) Collision A: each cart experiences the same force, time of collision, and change in kinetic energy. Collision B: the ball and the rod each experience the same torque, time of collision, and change in angular momentum.\nD) Collision A: each cart experiences the same force, time of collision, and change in velocity. Collision B: the ball and the rod each experience the same torque, time of collision, and change in angular velocity",
+        "gt": "b"
+    },
+    {
+        "question": "An object of mass 2 kg is acted upon by three external forces, each of magnitude 4 N. Which of the following could NOT be the resulting acceleration of the object?\nOptions:\nA) 0 m/s^2\nB) 2 m/s^2\nC) 4 m/s^2\nD) 8 m/s^2",
+        "gt": "d"
+    },
+    {
+        "question": "Spring scales are used to measure the net force applied to an object; a sonic motion detector is used to measure the object\u2019s resulting acceleration. A graph is constructed with the net force on the vertical axis and the acceleration on the horizontal axis. Which of the following quantities is directly measured using the slope of this graph?\nOptions:\nA) Gravitational mass\nB) Weight\nC) Velocity\nD) Inertial mass",
+        "gt": "d"
+    },
+    {
+        "question": "A wooden block experiences a frictional force, f, as it slides across a table. If a block of the same material with half the height and twice the length were to slide across the table, what would be the frictional force it experienced?\nOptions:\nA) (1/2)f\nB) f\nC) 2f\nD) 4f",
+        "gt": "b"
+    },
+    {
+        "question": "An object is placed 10 cm in front of a diverging mirror. What is the focal length of the mirror if the image appears 2 cm behind the mirror?\nOptions:\nA) -3/5 cm\nB) -5/3 cm\nC) -2/5 cm\nD) -5/2 cm",
+        "gt": "d"
+    },
+    {
+        "question": "Which of the following correctly describes the motion of a real object in free fall? Assume that the object experiences drag force proportional to speed and that it strikes the ground before reaching terminal sped.\nOptions:\nA) It will fall with increasing speed and increasing acceleration.\nB) It will fall with increasing speed and decreasing acceleration.\nC) It will fall with decreasing speed and increasing acceleration.\nD) It will fall with decreasing speed and decreasing acceleration.",
+        "gt": "b"
+    },
+    {
+        "question": "Two spheres of net charge +5e and -6e briefly come into contact. Afterward, which of the following is a possible combination of net charges for the two spheres?\nOptions:\nA) +3e and -4e\nB) +1.5e and -2.5e\nC) Both of the above\nD) None of the above",
+        "gt": "a"
+    },
+    {
+        "question": "The charge on an oil drop is measured in the laboratory. Which of the following measurements should be rejected as highly unlikely to be correct?\nOptions:\nA) 6.4 \u00d7 10^-19 C\nB) 8.0 \u00d7 10^-19 C\nC) 4.8 \u00d7 10^-19 C\nD) 2.4 \u00d7 10^-19 C",
+        "gt": "d"
+    },
+    {
+        "question": "Traveling at an initial speed of 1.5 \u00d7 10^6 m/s, a proton enters a region of constant magnetic field, B, of magnitude 1.0 T. If the proton's initial velocity vector makes an angle of 30\u00b0 with the direction of B, compute the proton's speed 4 s after entering the magnetic field.\nOptions:\nA) 5.0 \u00d7 10^5 m/s\nB) 7.5 \u00d7 10^5 m/s\nC) 1.5 \u00d7 10^6 m/s\nD) 3.0 \u00d7 10^6 m/s",
+        "gt": "c"
+    },
+    {
+        "question": "Which of the following concerning uniform circular motion is true?\nOptions:\nA) The centrifugal force is the action-reaction pair of the centripetal force.\nB) The centripetal acceleration and velocity point in the same direction.\nC) The velocity of the object in motion changes whereas the acceleration of the object is constant.\nD) A satellite undergoing uniform circular motion is falling toward the center in a circular path.",
+        "gt": "d"
+    },
+    {
+        "question": "It is known that a lab cart is moving east at 25 cm/s at time t1 = 0.10 s, and then moving east at 15 cm/s at t2 = 0.20 s. Is this enough information to determine the direction of the net force acting on the cart between t1 and t2?\nOptions:\nA) Yes, since we know the cart is slowing down, its momentum change is opposite the direction of movement, and the net force is in the direction of momentum change.\nB) No, because we don\u2019t know whether forces such as friction or air resistance might be acting on the cart.\nC) No, because we don\u2019t know the mass of the cart.\nD) Yes, since we know the cart keeps moving to the east, the net force must be in the direction of motion.",
+        "gt": "a"
+    },
+    {
+        "question": "An elevator is rising. In order to determine the tension in the cables pulling it, which values (for the elevator) would you need to know?\nOptions:\nA) Mass, velocity, height, and acceleration\nB) Mass, velocity, and acceleration\nC) Mass and velocity\nD) Mass and acceleration",
+        "gt": "d"
+    },
+    {
+        "question": "If two non-zero vectors are added together, and the resultant vector is zero, what must be true of the two vectors?\nOptions:\nA) They have equal magnitude and are pointed in the same direction.\nB) They have equal magnitude and are pointed in opposite directions.\nC) They have different magnitudes and are pointed in opposite directions.\nD) It is not possible for the sum of two non-zero vectors to be zero.",
+        "gt": "b"
+    },
+    {
+        "question": "A sound wave with frequency f travels through air at speed v. With what speed will a sound wave with frequency 4f travel through the air?\nOptions:\nA) v/4\nB) v\nC) 2v\nD) 4v",
+        "gt": "b"
+    },
+    {
+        "question": "Under what conditions is the net electric flux through a closed surface proportional to the enclosed charge?\nOptions:\nA) under any conditions\nB) only when the enclosed charge is symmetrically distributed\nC) only when all nearby charges are symmetrically distributed\nD) only when there are no charges outside the surface",
+        "gt": "a"
+    },
+    {
+        "question": "A beam of monochromatic light entering a glass window pane from the air will experience a change in\nOptions:\nA) frequency and wavelength\nB) speed and wavelength\nC) speed only\nD) wavelength only",
+        "gt": "b"
+    },
+    {
+        "question": "Data is collected in an experiment preformed on an ideal gas. In the experiment, temperature (in K) is the independent variable and volume (in m^3) is the dependent variable. If a plot is produced where the dependent variable is on the vertical axis, which of the following is true about the slope and y-intercept of the graph?\nOptions:\nA) The slope will be linearly proportional to the pressure of the gas and the intercept will be 0 m^3.\nB) The slope will be inversely proportional to the pressure of the gas and the intercept will be 0 m^3.\nC) The slope will be linearly proportional to the pressure of the gas and the intercept will not be 0 m^3.\nD) The slope will be inversely proportional to the pressure of the gas and the intercept will not be 0 m^3.",
+        "gt": "b"
+    },
+    {
+        "question": "A sphere, a cube, and a cylinder, all of equal mass, are released from rest from the top of a short incline. The surface of the incline is extremely slick, so much so that the objects do not rotate when released, but rather slide with negligible friction. Which reaches the base of the incline first?\nOptions:\nA) the sphere\nB) the cube\nC) the cylinder\nD) All reach the base at the same time.",
+        "gt": "d"
+    },
+    {
+        "question": "Two electrically charged balls are separated by a short distance, producing a force of 50 \u03bcN between them. Keeping the charge of each ball the same, the mass of one of the balls but not the other is doubled. What is the new electric force between the balls?\nOptions:\nA) 50 \u03bcN\nB) 100 \u03bcN\nC) 200 \u03bcN\nD) 400 \u03bcN",
+        "gt": "a"
+    },
+    {
+        "question": "A rock is dropped off a cliff and strikes the ground with an impact velocity of 30 m/s. How high was the cliff?\nOptions:\nA) 20 m\nB) 30 m\nC) 45 m\nD) 60 m",
+        "gt": "c"
+    },
+    {
+        "question": "Which of the following would increase the capacitance of a parallel-plate capacitor?\nOptions:\nA) Using smaller plates\nB) Replacing the dielectric material between the plates with one that has a smaller dielectric constant\nC) Decreasing the voltage between the plates\nD) Moving the plates closer together",
+        "gt": "d"
+    },
+    {
+        "question": "Which of the following types of electromagnetic radiation has the longest wavelength?\nOptions:\nA) Gamma rays\nB) Ultraviolet\nC) Blue light\nD) Orange light",
+        "gt": "d"
+    },
+    {
+        "question": "An electric motor has a label on it that reads: Input: 120V AC, 1.0 Amps, 60 Hz - Efficiency - 75%. At what constant speed can the motor lift up a 6 kg mass?\nOptions:\nA) 0.5 m/s\nB) 1.0 m/s\nC) 1.5 m/s\nD) 2.0 m/s",
+        "gt": "c"
+    },
+    {
+        "question": "Two people, one of mass 100 kg and the other of mass 50 kg, stand facing each other on an ice-covered (essentially frictionless) pond. If the heavier person pushes on the lighter one with a force F, then\nOptions:\nA) the force felt by the heavier person is (-1/2)F\nB) the force felt by the person is -2F\nC) the magnitude of the acceleration of the lighter person will be half of the magnitude of the acceleration of the heavier person\nD) the magnitude of the acceleration of the lighter person will be twice the magnitude of the acceleration of the heavier person",
+        "gt": "d"
+    },
+    {
+        "question": "Two objects, a sphere and a block of the same mass, are released from rest at the top of an inclined plane. The sphere rolls down the inclined plane without slipping. The block slides down the plane without friction. Which object reaches the bottom of the ramp first?\nOptions:\nA) The sphere, because it gains rotational kinetic energy, but the block does not\nB) The sphere, because it gains mechanical energy due to the torque exerted on it, but the block does not\nC) The block, because it does not lose mechanical energy due to friction, but the sphere does\nD) The block, because it does not gain rotational kinetic energy, but the sphere does",
+        "gt": "d"
+    },
+    {
+        "question": "Which of the following changes to a double-slit interference experiment would increase the widths of the fringes in the interference pattern that appears on the screen?\nOptions:\nA) Use light of a shorter wavelength.\nB) Move the screen closer to the slits.\nC) Move the slits closer together.\nD) Use light with a lower wave speed.",
+        "gt": "c"
+    },
+    {
+        "question": "A stone is thrown vertically upward with an initial speed of 5 m/s. What is the velocity of the stone 3 seconds later?\nOptions:\nA) 25 m/s, upward\nB) 25 m/s, downward\nC) 35 m/s, upward\nD) 35 m/s, downward",
+        "gt": "b"
+    },
+    {
+        "question": "A particle is subjected to a conservative force whose potential energy function is U(x) = (x \u2013 2)3 \u2013 12x where U is given in joules when x is measured in meters. Which of the following represents a position of stable equilibrium?\nOptions:\nA) x = \u20134\nB) x = \u20132\nC) x = 0\nD) x = 4",
+        "gt": "d"
+    },
+    {
+        "question": "A ball of mass is attached to a string connected to the ceiling, forming a pendulum. When the string is raised to an angle of 50 degrees below the horizontal (the ceiling) and released, the ball swings back and forth with a period of 0.4 s. Which of the following changes to the pendulum would decrease the period of the pendulum?\nOptions:\nA) Increasing the mass of the ball\nB) Decreasing the length of the string\nC) Decreasing the angle of the string from the horizontal when released\nD) Decreasing the mass of the ball",
+        "gt": "b"
+    },
+    {
+        "question": "A disk of radius 0.1 m initially at rest undergoes an angular acceleration of 2.0 rad/s^2. If the disk only rotates, find the total distance traveled by a point on the rim of the disk in 4.0 s.\nOptions:\nA) 0.4 m\nB) 0.8 m\nC) 1.2 m\nD) 1.6 m",
+        "gt": "d"
+    },
+    {
+        "question": "A stone is thrown horizontally with an initial speed of 10 m/s from a bridge. Assuming that air resistance is negligible, how long would it take the stone to strike the water 80 m below the bridge?\nOptions:\nA) 1 s\nB) 2 s\nC) 4 s\nD) 8 s",
+        "gt": "c"
+    },
+    {
+        "question": "The Space Shuttle orbits 300 km above the Earth\u2019s surface; the Earth\u2019s radius is 6400 km. What is the acceleration due to Earth\u2019s gravity experienced by the Space Shuttle?\nOptions:\nA) 4.9 m/s^2\nB) 8.9 m/s^2\nC) 9.8 m/s^2\nD) 10.8 m/s^2",
+        "gt": "b"
+    },
+    {
+        "question": "A sphere starts from rest atop a hill with a constant angle of inclination and is allowed to roll without slipping down the hill. What force provides the torque that causes the sphere to rotate?\nOptions:\nA) Static friction\nB) Kinetic friction\nC) The normal force of the hill on the sphere\nD) Gravity",
+        "gt": "a"
+    },
+    {
+        "question": "A table supports a wooden block placed on the tabletop. Which fundamental force of nature is responsible for this interaction, and why?\nOptions:\nA) The electric force, because the protons in the nuclei of the top atomic layer of the table repel the nuclei in the bottom atomic layer of the wood.\nB) The gravitational force, because by F = GMm/r^2, the force of the table on the wood at that close range is sufficient to balance the force of the Earth on the wood.\nC) The electric force, because the outer electrons in the top atomic layer of the table repel the outer electrons in the bottom atomic layer of the wood.\nD) The strong nuclear force, because the protons in the nuclei of the top atomic layer of the table repel the nuclei in the bottom atomic layer of the wood.",
+        "gt": "c"
+    },
+    {
+        "question": "A children\u2019s toy consists of a cart whose very light wheels are attached to a rubber band. This rubber band can wind and unwind around the axle supporting the wheels. This toy is given a shove, after which the toy rolls across a flat surface and up a ramp. It is observed that the toy does not go a consistent distance up the ramp\u2014in some trials it ends up higher than in other trials, even though the shove imparts the same kinetic energy to the cart each time. Which of the following is a reasonable explanation for this phenomenon?\nOptions:\nA) Depending on how the rubber band is initially wound, more or less potential energy can be transferred from the rubber band to the kinetic energy of the car\u2019s motion.\nB) The normal force on the cart\u2019s wheels will be different depending on how much the rubber band winds or unwinds.\nC) How much energy is transferred from kinetic energy to gravitational potential energy depends on the vertical height at which the cart ends up.\nD) Some of the cart\u2019s initial kinetic energy will be dissipated due to work done by friction.",
+        "gt": "a"
+    },
+    {
+        "question": "Two ice skaters are moving on frictionless ice and are about to collide. The 50-kg skater is moving directly west at 4 m/s. The 75-kg skater is moving directly north at 2 m/s. After the collision they stick together. For this scenario, which of the following is true?\nOptions:\nA) The linear momentum of the system is conserved because the net force on the system is nonzero during the collision.\nB) Only the kinetic energy of the system is conserved because it is an inelastic collision.\nC) Only the kinetic energy of the system is conserved because it is an elastic collision.\nD) The linear momentum of the system is conserved because the net force on the system is zero.",
+        "gt": "d"
+    },
+    {
+        "question": "The mass of the Earth is 5.97 \u00d7 10^24 kg. The Moon, whose center is 3.84 \u00d7 10^8 m from the Earth\u2019s center, has mass 7.35 \u00d7 10^22 kg. Which of the following is the best estimate of the gravitational force of the Earth on the Moon?\nOptions:\nA) 10^39 N\nB) 10^29 N\nC) 10^19 N\nD) 10^9 N",
+        "gt": "c"
+    },
+    {
+        "question": "How long would it take a car, starting from rest and accelerating uniformly in a straight line at 5 m/s^2, to cover a distance of 200 m ?\nOptions:\nA) 9.0 s\nB) 10.5 s\nC) 12.0 s\nD) 15.5 s",
+        "gt": "a"
+    },
+    {
+        "question": "A student pushes a puck across a table, moving it from position x = 0 to position x = 0.2 m. After he lets go, the puck continues to travel across the table, coming to rest at position x = 1.2 m. When the puck is at position x = 1.0 m, which of the following is a correct assertion about the net force on the puck?\nOptions:\nA) The net force is in the negative direction, because the puck is moving in the positive direction but slowing down.\nB) The net force is down, because the puck is near the Earth, where gravitational acceleration is 10 m/s^2 downward.\nC) The net force is in the positive direction, because the student\u2019s push caused the puck to speed up in the positive direction.\nD) The net force is zero, because the student\u2019s push in the positive direction must equal the force of friction in the negative direction.",
+        "gt": "a"
+    },
+    {
+        "question": "Experimenter A uses a very small test charge qo, and experimenter B uses a test charge 2qo to measure an electric field produced by two parallel plates. A finds a field that is\nOptions:\nA) greater than the field found by B\nB) the same as the field found by B\nC) less than the field found by B\nD) either greater or less than the field found by B, depending on the accelerations of the test charges",
+        "gt": "b"
+    },
+    {
+        "question": "A particle's kinetic energy is changing at a rate of \u20136.0 J/s when its speed is 3.0 m/s. What is the magnitude of the force on the particle at this moment?\nOptions:\nA) 0.5 N\nB) 2.0 N\nC) 4.5 N\nD) 9.0 N",
+        "gt": "b"
+    },
+    {
+        "question": "A car rounds a banked curve of uniform radius. Three forces act on the car: a friction force between the tires and the road, the normal force from the road, and the weight of the car. Which provides the centripetal force which keeps the car in circular motion?\nOptions:\nA) the friction force alone\nB) the normal force alone\nC) the weight alone\nD) a combination of the normal force and the friction force",
+        "gt": "d"
+    },
+    {
+        "question": "A stone is thrown horizontally with an initial speed of 30 m/s from a bridge. Find the stone's total speed when it enters the water 4 seconds later, assuming that air resistance is negligible.\nOptions:\nA) 30 m/s\nB) 40 m/s\nC) 50 m/s\nD) 60 m/s",
+        "gt": "c"
+    },
+    {
+        "question": "What happens to the force of gravitational attraction between two small objects if the mass of each object is doubled and the distance between their centers is doubled?\nOptions:\nA) It is doubled.\nB) It is quadrupled.\nC) It is halved.\nD) It remains the same.",
+        "gt": "d"
+    },
+    {
+        "question": "A beam of monochromatic light entering a glass window pane from the air will experience a change in\nOptions:\nA) frequency and wavelength\nB) frequency and speed\nC) speed and wavelength\nD) speed only",
+        "gt": "c"
+    },
+    {
+        "question": "A rigid, solid container of constant volume holds an ideal gas of volume v1 and temperature T1 and pressure P1. The temperature is increased in an isochoric process. Which of the following is NOT true?\nOptions:\nA) The average speed of the molecules increases.\nB) The pressure increases.\nC) The kinetic energy of the system increases.\nD) The volume increases.",
+        "gt": "d"
+    },
+    {
+        "question": "A string of fixed tension and linear mass density is attached to a vibrating speaker. It is observed that a speaker frequency of 60 Hz does not produce standing waves in the string. Which explanation for this phenomenon is correct?\nOptions:\nA) The string length is not a multiple of half the wavelength of the wave.\nB) The wave speed on the string is fixed.\nC) 60 Hz is in the lowest range of audible sound.\nD) The wavelength of the wave produced by the speaker is equal to the speed of waves on the string divided by 60 Hz.",
+        "gt": "a"
+    },
+    {
+        "question": "A spherical charge distribution varies with the radius r by the equation \u03c1 = ar, where \u03c1 is the volume charge density and a is a positive constant. The distribution goes out to a radius R. Which of the following is true of the electric field strength due to this charge distribution at a distance r from the center?\nOptions:\nA) It increases as r approaches infinity.\nB) It decreases linearly for r > R.\nC) It increases linearly for r > R.\nD) It increases non-linearly for r < R.",
+        "gt": "d"
+    },
+    {
+        "question": "An alarm whose frequency is 400 Hz is dropped out of a third-floor window. The student who drops it measures the frequency with a very sensitive oscilloscope. The measured frequency\nOptions:\nA) appears higher than 400 Hz and the frequency increase as it falls\nB) appears higher than 400 Hz and the frequency decreases as it falls\nC) appears lower than 400 Hz and the frequency decreases as it falls\nD) appears lower than 400 Hz and the frequency increases as it falls",
+        "gt": "c"
+    },
+    {
+        "question": "Optometrists use a linear scale of lens power, measured in diopters, to prescribe corrective lenses. Sufferers of myopia, or nearsightedness, have difficulty resolving distant objects because the lenses in their eyes are too strong. If a myopic person has a prescription of -5 diopters, what image do her corrective lenses create for distant objects?\nOptions:\nA) An upright, real image about 20 cm in front of her eyes\nB) An upright, virtual image about 20 cm in front of her eyes\nC) An inverted, real image about 20 cm behind her eyes\nD) An inverted, virtual image 5 cm behind her eyes",
+        "gt": "b"
+    },
+    {
+        "question": "A charged particle moves through a magnetic field and experiences a force f. New particles are sent into the same magnetic field. If the new particles have twice the charge, twice the mass, and twice the velocity, the new force would be\nOptions:\nA) 4F\nB) 2F\nC) F\nD) 1/2 F",
+        "gt": "a"
+    },
+    {
+        "question": "Two isolated particles, A and B, are 4 m apart. Particle A has a net charge of 2Q, and B has a net charge of Q. The ratio of the magnitude of the electric force on A to that on B is\nOptions:\nA) 4:01\nB) 2:01\nC) 1:01\nD) 1:02",
+        "gt": "c"
+    },
+    {
+        "question": "A rock drops onto a pond with a smooth surface. A few moments later, the wave produced by the rock\u2019s impact arrives at the shore, touching the ankles of a wading child. Which of the following observations provides evidence that the portion of the wave hitting the child\u2019s ankles carries less energy than the wave did when it was first created by the rock\u2019s impact?\nOptions:\nA) The wave is moving more slowly.\nB) The wave pulse\u2019s width has become greater.\nC) The wave pulse\u2019s width has become smaller.\nD) The wave\u2019s height has become smaller.",
+        "gt": "d"
+    }
+]
