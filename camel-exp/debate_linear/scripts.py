@@ -1,0 +1,1 @@
+python solve_trust.py -agent_model llama3 -trust_model llama3 -trust_size 8B -dataset mmluphy -prompt persuasive-3 -gpu 4
