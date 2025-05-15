@@ -1,1 +1,1 @@
-Code for attention trust analysis
+Code for attention A-Trust and trust management framework.
