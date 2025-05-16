@@ -3,7 +3,7 @@ import json
 from glob import glob
 
 # Prompt for the API key securely
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "YOUR_API_KEY"
 
 from camel.agents import ChatAgent
 from camel.messages import BaseMessage
