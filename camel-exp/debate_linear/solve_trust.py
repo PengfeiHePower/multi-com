@@ -9,7 +9,7 @@ sys.path.append("..")
 from trust_util import load_trust_models, load_thresholds, get_attentions, extract_trust_vector, trust_scores_per, trust_violation_flag, trust_violation_flag_double
 
 # Prompt for the API key securely
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "YOUR_API_KEY"
 
 from camel.agents import ChatAgent
 from camel.messages import BaseMessage
