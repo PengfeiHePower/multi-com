@@ -4,7 +4,7 @@ import json
 from google import genai
 from google.genai.types import Tool, GenerateContentConfig, GoogleSearch
 
-client = genai.Client(api_key="AIzaSyAwvvlvmLBrj6vCRden7R3w3oV3RtEd41I")
+client = genai.Client(api_key="YOUR_API_KEY")
 model_id = "gemini-2.0-flash"
 
 google_search_tool = Tool(
